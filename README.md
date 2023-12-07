@@ -4,6 +4,8 @@
 大久保 潤 著, 『確率的シミュレーション』, 森北出版(2023)のサンプルコードを掲載しています。  
 [出版社のページ: https://www.morikita.co.jp/books/mid/009721](https://www.morikita.co.jp/books/mid/009721)
 
+[出版社のnote記事: https://note.com/morikita/n/n9faedbf9b660](https://note.com/morikita/n/n9faedbf9b660)
+
 （注意）「理解を深めるために参考になれば」という意図で作成しています。バグ等含まれる可能性もあります。勉強のためのみに利用してください。
 
 ### コードについて
